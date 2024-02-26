@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jschnall
-- 👀 I’m interested in mobile app development
+- 👀 I’m interested in fullstack mobile app development
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Android apps
 - 📫 How to reach me: jschnall@gmail.com
